@@ -17,7 +17,7 @@ from appwrite.query import Query
 
 AZURE_ENDPOINT = os.environ.get(
     "AZURE_AI_ENDPOINT",
-    "https://samjho-ai.services.ai.azure.com/openai/v1"
+    "https://yash-org-ai-resource-1.services.ai.azure.com/api/projects/yash-org-ai"
 )
 
 AZURE_DEPLOYMENT = os.environ.get(
